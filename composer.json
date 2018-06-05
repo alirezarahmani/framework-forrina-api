@@ -1,0 +1,13 @@
+{
+  "name": "forrina/framework-forrina-api",
+  "description": "Internal Api",
+  "homepage": "https://github.com/falirezarahmani/framework-forrina-api",
+  "require": {
+    "forrina/framework": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {"Forrina\\Supernova\\Forrina\\Api\\": "src/"}
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
